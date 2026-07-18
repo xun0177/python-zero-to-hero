@@ -40,6 +40,12 @@ python 01_function_intro.py
 | 第 08 题 | `08_dict_crud.py` | 字典的增删改查、items() 遍历键值对、嵌套结构（字典中存列表） |
 | 第 09 题 | `09_string_methods.py` | 字符串方法（strip / upper / lower / title / replace / split / join / find） |
 | 第 10 题 | `10_circle_calc.py` | 导入 math 模块、math.pi 常量、圆的周长与面积计算、格式化输出保留小数 |
+| 第 11 题 | `11_exception_handling.py` | try-except 异常捕获、ZeroDivisionError、TypeError、错误提示 |
+| 第 12 题 | `12_file_read_write.py` | with open() 上下文管理器、文件写入（'w'）、文件读取（'r'）、encoding='utf-8' |
+| 第 13 题 | `13_list_comprehension.py` | 列表推导式、条件筛选、len() 获取字符串长度 |
+| 第 14 题 | `14_tuple_operations.py` | 元组的定义、元组解包、索引访问、enumerate() 遍历、math.sqrt() 开平方 |
+| 第 15 题 | `15_set_operations.py` | 集合的定义、交集（&）、并集（\|）、差集（-）、对称差集（^） |
+| 第 16 题 | `16_class_intro.py` | 类与对象、__init__ 构造方法、self 参数、实例方法、对象创建与调用 |
 
 
 ## ✨ 代码特色
